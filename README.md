@@ -1,5 +1,5 @@
 
-# Project Name
+# Recipe Application
 
 ## Installation Guide
 
